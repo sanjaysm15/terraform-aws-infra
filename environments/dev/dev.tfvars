@@ -11,8 +11,8 @@ private_subnets = [
 ]
 
 azs = [
-  "us-east-1a",
-  "us-east-1b"
+  "ap-south-1a",
+  "ap-south-1b"
 ]
 
 instance_type = "t2.micro"
